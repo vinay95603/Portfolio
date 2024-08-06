@@ -1,9 +1,4 @@
-  // |_/ /\ (_ |__||(_ |__|   
-  // | \/--\__)|  ||__)|  |
 
-  // |\ | /\ |__) /\ |\ |/ _  
-  // | \|/--\| \ /--\| \|\__) 
-                           
 
 // preloader script............
 var audio = document.getElementById("audioPlayer");
